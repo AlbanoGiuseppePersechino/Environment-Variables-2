@@ -1,0 +1,4 @@
+server:
+  port: 4000
+
+welcomeMsg: "Hello from Test"
